@@ -1,12 +1,12 @@
-## First Name Last Name
+## Allan E. Gil
 
-### Term Year 
+### 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Course 1 **bold** Pre Calculus
 
-- Course 2
+- Course 2 **bold** Intro to Data Science
 
 - Course 3
 
@@ -16,12 +16,12 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Thing 1 Computer Science and Information Technology
 
-- Thing 2
+- Thing 2 New inventions for a sustanible future
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/09
