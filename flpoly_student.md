@@ -2,15 +2,14 @@
 
 ### 2021
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in 
 
-- Course 1 **Pre Calculus**
+| |  **class name**                                       |**class number**                          |            
+|:--|:----------------------------------------------------|:-----------------------------------------|
+|- **Course 1**| _Pre Calculus Algebra  Trigonometry_     | **SU B 2021 MAC1147.01OL GEMTH**         |
+|- **Course 2**| _Intro to Data Science_                  | **COP 2073**                             |
 
-- Course 2 **Intro to Data Science**
 
-- Course 3
-
-- Course 4
 
 **Hobbies:**
 
@@ -24,4 +23,5 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/07/09
+> Last modified: 2021/07/20
+
